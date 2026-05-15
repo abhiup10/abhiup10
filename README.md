@@ -119,10 +119,10 @@ I am open to senior frontend opportunities where I can contribute to scalable pr
   <a href="mailto:abhiup10@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
-  <a href="https://www.linkedin.com/in/abhiup10/">
+  <a href="https://www.linkedin.com/in/abhiup10/" target="blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://drive.google.com/file/d/1n-6X8F63_8rk3mCYJPeokVlqkuXu3-J9/view">
+  <a href="https://drive.google.com/file/d/1n-6X8F63_8rk3mCYJPeokVlqkuXu3-J9/view" target="blank">
     <img src="https://img.shields.io/badge/View%20Resume-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="View resume" />
   </a>
 </p>
